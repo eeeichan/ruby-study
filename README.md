@@ -11,3 +11,5 @@
   * fork_api.rb
 * 並列処理(Thread API)
   * thread_api.rb
+* 二分探索
+  * binary_search.rb
