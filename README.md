@@ -13,3 +13,5 @@
   * thread_api.rb
 * 二分探索
   * binary_search.rb
+* 全探索
+  * all_search.rb
